@@ -1,0 +1,14 @@
+C:\Users\User\Documents\GitHub\SENAIback\atividade\bin\Debug\net9.0\atividade.exe
+C:\Users\User\Documents\GitHub\SENAIback\atividade\bin\Debug\net9.0\atividade.deps.json
+C:\Users\User\Documents\GitHub\SENAIback\atividade\bin\Debug\net9.0\atividade.runtimeconfig.json
+C:\Users\User\Documents\GitHub\SENAIback\atividade\bin\Debug\net9.0\atividade.dll
+C:\Users\User\Documents\GitHub\SENAIback\atividade\bin\Debug\net9.0\atividade.pdb
+C:\Users\User\Documents\GitHub\SENAIback\atividade\obj\Debug\net9.0\atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\SENAIback\atividade\obj\Debug\net9.0\atividade.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\SENAIback\atividade\obj\Debug\net9.0\atividade.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\SENAIback\atividade\obj\Debug\net9.0\atividade.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\SENAIback\atividade\obj\Debug\net9.0\atividade.dll
+C:\Users\User\Documents\GitHub\SENAIback\atividade\obj\Debug\net9.0\refint\atividade.dll
+C:\Users\User\Documents\GitHub\SENAIback\atividade\obj\Debug\net9.0\atividade.pdb
+C:\Users\User\Documents\GitHub\SENAIback\atividade\obj\Debug\net9.0\atividade.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\SENAIback\atividade\obj\Debug\net9.0\ref\atividade.dll
